@@ -28,3 +28,4 @@ Dan kinerja dari model dapat dilihat pada confusion matriks berikut.
 
 ![Capturemat](https://user-images.githubusercontent.com/73114027/107910580-4e51fd00-6f8d-11eb-8461-7243a9a161be.PNG)
 
+Diasumsikan terdapat 76 pasien dengan 47 pasien terserang penyakit jantung dan 29 pasien tidak terserang penyakit jantung. Dari 47 pasien yang terserang penyakit jantung, model memprediksi 7 pasien tidak terserang penyakit jantung. Sedangkan dari 29 pasien yang tidak terserang penyakit jantung, model memprediksi ada 3 pasien yang terserang penyakit jantung.
