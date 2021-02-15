@@ -8,3 +8,6 @@ Terdapat beberapa variabel dari data penyakit jantung pada UCI dataset, seperti 
 
 Berdasakan grafik diatas, terlihat bahwa ada lebih banyak pasien yang terserang penyakit jantung. Sebanyak 165 pasien terserang penyakit jantung dan 138 pasien lainnya tidak terserang penyakit jantung. 
 
+
+
+Dari grafik diatas, dapat diketahui bahwa 
