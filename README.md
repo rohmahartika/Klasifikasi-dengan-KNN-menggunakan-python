@@ -27,3 +27,4 @@ Setelah melewati proses perhitungan, didapat nilai akurasi sebagai berikut.
 Dan kinerja dari model dapat dilihat pada confusion matriks berikut.
 
 ![Capturemat](https://user-images.githubusercontent.com/73114027/107910580-4e51fd00-6f8d-11eb-8461-7243a9a161be.PNG)
+
